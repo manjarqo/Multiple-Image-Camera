@@ -56,7 +56,7 @@ class _CameraFileState extends State<CameraFile> with TickerProviderStateMixin {
       ),
       child: const Center(
         child: Text(
-          'Done',
+          'Готово',
           style: TextStyle(
               fontSize: 20.0, fontWeight: FontWeight.bold, color: Colors.black),
         ),
